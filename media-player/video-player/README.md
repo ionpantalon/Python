@@ -1,4 +1,4 @@
-### Video player written in Python and based on Gstreamer framerwork
+### Video player based on Gstreamer1.x framerwork
 #### Run
 Check if Gstreamer is installed
 ```sh
